@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">event-driven-arch-android</string>
+    <string name="new_joke">New Joke</string>
+</resources>
